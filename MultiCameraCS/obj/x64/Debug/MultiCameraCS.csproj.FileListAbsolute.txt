@@ -1,0 +1,11 @@
+C:\Users\common\Desktop\hawaii\MultiCameraCS\bin\x64\Debug\MultiCameraCS.exe
+C:\Users\common\Desktop\hawaii\MultiCameraCS\bin\x64\Debug\MultiCameraCS.pdb
+C:\Users\common\Desktop\hawaii\MultiCameraCS\bin\x64\Debug\TeliCamDNet4_0Api64.dll
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.csprojAssemblyReference.cache
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.Form1.resources
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.Properties.Resources.resources
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.csproj.GenerateResource.cache
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.csproj.CoreCompileInputs.cache
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.csproj.CopyComplete
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.exe
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Debug\MultiCameraCS.pdb

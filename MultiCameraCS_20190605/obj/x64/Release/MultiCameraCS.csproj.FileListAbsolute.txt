@@ -1,0 +1,22 @@
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\bin\x64\Release\MultiCameraCS.exe
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\bin\x64\Release\MultiCameraCS.pdb
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\bin\x64\Release\TeliCamDNet4_0Api64.dll
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.csprojAssemblyReference.cache
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.Form1.resources
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.Properties.Resources.resources
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.csproj.GenerateResource.cache
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.csproj.CoreCompileInputs.cache
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.csproj.CopyComplete
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.exe
+C:\Program Files\TOSHIBA TELI\TeliCamSDK\Samples\VS2010\DNet\x64\CSharp\MultiCameraCS\obj\x64\Release\MultiCameraCS.pdb
+C:\Users\common\Desktop\hawaii\MultiCameraCS\bin\x64\Release\MultiCameraCS.exe
+C:\Users\common\Desktop\hawaii\MultiCameraCS\bin\x64\Release\MultiCameraCS.pdb
+C:\Users\common\Desktop\hawaii\MultiCameraCS\bin\x64\Release\TeliCamDNet4_0Api64.dll
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.csprojAssemblyReference.cache
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.Form1.resources
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.Properties.Resources.resources
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.csproj.GenerateResource.cache
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.csproj.CoreCompileInputs.cache
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.csproj.CopyComplete
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.exe
+C:\Users\common\Desktop\hawaii\MultiCameraCS\obj\x64\Release\MultiCameraCS.pdb
