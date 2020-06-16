@@ -1,0 +1,13 @@
+
+# Curve 0 of 1, 10 points
+# Curve title: "0711 energy"
+# x y xlow xhigh type
+ 2  1  2  2  i
+ 2.5  10  2.5  2.5  i
+ 3  11  3  3  i
+ 3.5  8  3.5  3.5  i
+ 4  2  4  4  i
+ 4.5  4  4.5  4.5  i
+ 5  7  5  5  i
+ 5.5  4  5.5  5.5  i
+ 12  1  12  12  i

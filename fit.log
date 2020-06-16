@@ -1,0 +1,198 @@
+
+
+*******************************************************************************
+Mon Jun 10 14:43:45 2019
+
+
+FIT:    data read from "kyori.dat"
+        format = z
+        x range restricted to [110.000 : 180.000]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Mon Jun 10 14:44:06 2019
+
+
+FIT:    data read from "kyori.dat"
+        format = z
+        x range restricted to [110.000 : 180.000]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Mon Jun 10 14:44:28 2019
+
+
+FIT:    data read from "kyori.dat"
+        format = z
+        x range restricted to [110.000 : 180.000]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Mon Jun 10 14:44:40 2019
+
+
+FIT:    data read from "kyori.dat"
+        format = z
+        x range restricted to [110.000 : 180.000]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Mon Jun 10 14:45:00 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3:2
+        format = x:z:s
+        x range restricted to [110.000 : 180.000]
+        #datapoints = 3
+function used for fitting: f(x) [120.:172.]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:45:15 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3:4
+        format = x:z:s
+        x range restricted to [110.000 : 180.000]
+        #datapoints = 3
+function used for fitting: f(x) [120.:172.]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:45:33 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3:4
+        format = x:z:s
+        x range restricted to [110.000 : 180.000]
+        #datapoints = 3
+function used for fitting: f(x) [120.:172.]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:52:18 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3:4
+        format = x:z:s
+        x range restricted to [110.000 : 180.000]
+        #datapoints = 3
+function used for fitting: f(x) [120:172]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:53:51 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3:4
+        format = x:z:s
+        x range restricted to [117.000 : 187.000]
+        #datapoints = 3
+function used for fitting: f(x) [120:172]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:54:09 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3
+        format = x:z
+        x range restricted to [117.000 : 187.000]
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x) [120.:172.]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:54:20 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3
+        format = x:z
+        x range restricted to [117.000 : 187.000]
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x) [120:172]
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Jun 10 14:54:31 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3
+        format = x:z
+        x range restricted to [117.000 : 187.000]
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 0.0000000000e+00  nan       1.49e+01  1.000000e-01
+   1 0.0000000000e+00  nan       1.49e+00  1.000000e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 0.1            
+
+
+*******************************************************************************
+Mon Jun 10 14:54:38 2019
+
+
+FIT:    data read from "kyori.dat" using 1:3:4
+        format = x:z:s
+        x range restricted to [117.000 : 187.000]
+        #datapoints = 3
+function used for fitting: f(x)
+	f(x) = a*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 0.0000000000e+00  nan       9.56e+00  1.000000e-01
+   1 0.0000000000e+00  nan       9.56e-01  1.000000e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 0.1            

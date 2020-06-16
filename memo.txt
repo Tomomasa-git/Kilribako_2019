@@ -1,0 +1,11 @@
+%霧箱製作を行った学部生の卒論
+http://www.nucl.phys.titech.ac.jp/presen/data/thesis/b/ay2009/yoribayashi/yoribayashi-bthesis.pdf
+
+%空気密度の温度依存性
+http://windofweef.jp/library/preinform/5/50/img16/50123_book01_06.pdf
+
+
+%物性値関係のデータ(困ったらとりあえずこれ見とけ!!!)
+http://pdg.lbl.gov/2019/reviews/contents_sports.html
+http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html
+http://pdg.lbl.gov/2019/AtomicNuclearProperties/adndt.pdf
